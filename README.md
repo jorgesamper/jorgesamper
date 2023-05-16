@@ -2,12 +2,12 @@
 
 <h3> 👨🏻‍💻  About Me </h3> 
 
-- 🌱 I’m currently working on ... UX/UI Desgin
-- 🎓 I’m currently learning ... Full Stack Dev
-- 👯 I’m looking to collaborate on ... Product Designer & Front-end Dev
-- ⚡ I’m looking for help with ... Web 3.0
-- 💬 Ask me about ... Design and innovation
-- 📫 How to reach me: ... jorgesamper7@gmail.com
+- 🌱 I’m currently working on UX/UI Desgin
+- 🎓 I’m currently learning Full Stack Dev
+- 👯 I’m looking to collaborate on Product Designer & Front-end Dev
+- ⚡ I’m looking for help with Web 3.0 & Nft´s
+- 💬 Ask me about Design and innovation
+- 📫 How to reach me: jorgesamper7@gmail.com
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -17,6 +17,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Figma](https://iconos8.es/icon/zfHRZ6i1Wg0U/figma)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
