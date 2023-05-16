@@ -1,4 +1,4 @@
-<h2> Hey there <img alt="Codificación nocturna" src="/AVS1508/AVS1508/raw/master/assets/Hand%20Wave.gif" align="left" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">👋! I'm Jorge.</h2>
+<h2> Hey there👋! I'm Jorge.</h2>
 
 <h3> 👨🏻‍💻  About Me </h3> 
 
@@ -38,8 +38,9 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)-->
-  
-  <img alt="Codificación nocturna" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  <br>
+     <img alt="Codificación nocturna" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width: 100%; display: inline-block;" data-target="animated-    image.originalImage">
+  </br>
  
 
 
