@@ -1,4 +1,4 @@
-<h2> Hey there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">! I'm Jorge.</h2>
+<h2> Hey there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Jorge.</h2>
 
 <h3> 👨🏻‍💻  About Me </h3> 
 
