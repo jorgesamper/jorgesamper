@@ -1,4 +1,4 @@
-<h2> Hey there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Jorge.</h2>
+<h2> Hey there! <img alt="Codificación nocturna" src="/AVS1508/AVS1508/raw/master/assets/Hand%20Wave.gif" align="left" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> I'm Jorge.</h2>
 
 <h3> 👨🏻‍💻  About Me </h3> 
 
