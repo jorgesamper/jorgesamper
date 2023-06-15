@@ -2,12 +2,12 @@
 
 <h3> 👨🏻‍💻  About Me </h3> 
 
-- 🌱 I’m currently working on UX/UI Desgin
 - 🎓 I’m currently learning Full Stack Dev
+- 🌱 I am working on my own projects UI/UX Design
 - 👯 I’m looking to collaborate on Product Designer & Front-end Dev
-- ⚡ I’m looking for help with Web 3.0 & Nft´s
-- 💬 Ask me about Design and innovation
-- 📫 How to reach me: jorgesamper7@gmail.com
+- ⚡ Seeking collaboration for a Web 3.0 and Nfts project
+- 💬 Ask me about Design, Innovation and Business
+- 📫 To contact me: jorgesamper7@gmail.com
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
