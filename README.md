@@ -1,6 +1,7 @@
 # Hello there! I'm Jorge <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&duration=2000&pause=1000&color=1EF76B&multiline=true&width=435&lines=UX/UI+Full+Stack+Developer%F0%9F%92%BB)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&duration=2000&pause=1000&color=1EF76B&multiline=true&width=435&lines=UX/UI+Web+Developer%F0%9F%92%BB)
+<!--(https://git.io/typing-svg)-->
 
 ## 👨🏻‍💻  About Me
 
@@ -16,9 +17,9 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -34,13 +35,13 @@
   ## 💬 Networks
 
   <p>
-    <a href="https://www.linkedin.com/in/jorgesamperarias/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/jorgesamperarias/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-    badge&logo=linkedin&logoColor=white">
+    </a>
   </p>
  
  <br>
-     <img alt="Codificación nocturna" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left" style="max-width: 100%; display: inline-block;">
-
-  </br>
+    <img alt="Codificación nocturna" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left" style="max-width: 100%; display: inline-block;">
+</br>
  
 
 
