@@ -38,17 +38,6 @@
     <a href="https://www.linkedin.com/in/jorgesamperarias/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-    badge&logo=linkedin&logoColor=white">
     </a>
   </p>
-
-  ## 📊 Estadísticas
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lloykaperez&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lloykaperez&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!-- https://github.com/Ileriayo/markdown-badges -->
  
  <br>
     <img alt="Codificación nocturna" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left" style="max-width: 100%; display: inline-block;">
