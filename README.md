@@ -1,6 +1,6 @@
 # Hello there! I'm Jorge <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&duration=2000&pause=1000&color=1EF76B&multiline=true&width=435&lines=UX/UI+Web+Developer%F0%9F%92%BB)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&duration=2000&pause=1000&color=1EF76B&multiline=true&width=435&lines=UX/UI+Front-End+Developer%F0%9F%92%BB)
 <!--(https://git.io/typing-svg)-->
 
 ## 👨🏻‍💻  About Me
