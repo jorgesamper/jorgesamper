@@ -3,6 +3,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&duration=4000&pause=1000&color=1EF76B&multiline=true&width=435&lines=UX/UI+Front-End+Developer%F0%9F%92%BB)
 <!--(https://git.io/typing-svg)-->
 
+<p> <img src="https://komarev.com/ghpvc/?username=jorgesamper&label=Profile%20views&color=0e75b6&style=flat" alt="jorgesamper" /> </p>
+
 ## 👨🏻‍💻  About Me
 
 - 🎓 I’m currently learning Full Stack Dev
@@ -11,8 +13,6 @@
 - ⚡ Seeking collaboration for a Web 3.0 and Nfts project
 - 💬 Ask me about Design, Innovation and Business
 - 📫 To contact me: jorgesamper7@gmail.com
-
-  <p> <img src="https://komarev.com/ghpvc/?username=jorgesamper&label=Profile%20views&color=0e75b6&style=flat" alt="jorgesamper" /> </p>
 
 ## 🛠 Tech Stack
 
