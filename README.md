@@ -39,12 +39,13 @@
 
 ## 💬 Connect with Me
 
-  <a href="https://www.linkedin.com/in/jorgesamperarias/" target="_blank">
-    <img src="https://icongr.am/devicon/linkedin-original.svg?size=50&color=d400ff" width="40" height="40" alt="LinkedIn" style="vertical-align: top; margin: 6px 4px;" title="LinkedIn">
-  </a>
-  <a href="mailto:jorgesamper7@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40" alt="Gmail" title="Gmail">
-  </a>
+<a href="https://www.linkedin.com/in/jorgesamperarias/" target="_blank" style="text-decoration: none;">
+  <img src="https://icongr.am/devicon/linkedin-original.svg?size=50&color=d400ff" width="40" height="40" alt="LinkedIn" style="vertical-align: top; margin: 6px 4px;" title="LinkedIn">
+</a>
+
+<a href="mailto:jorgesamper7@gmail.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40" alt="Gmail" title="Gmail">
+</a>
 
 
   ## 📊 Estadísticas
