@@ -6,7 +6,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=jorgesamper&label=Profile%20views&color=0e75b6&style=flat" alt="jorgesamper" /> </p>
 
 
-## 👨🏻‍💻  About Me
+## 👨🏻‍💻 <span style="color: #0074D9;"> About Me </span>
 
 - 🎓 I’m currently learning Full Stack Dev
 - 🌱 I am working on my own projects UI/UX Design
