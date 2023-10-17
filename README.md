@@ -52,10 +52,9 @@
     </a>
   <br>
   <summary>:chart_with_upwards_trend: Top Languages</summary>
-    <a href="https://github.com/jorgesamper/github-readme-stats">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgesamper&layout=compact&theme=radical&hide_border=true" />
-    </a>
-</br>
+  <a href="https://github.com/jorgesamper/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgesamper&layout=compact&theme=radical&hide_border=true" />
+  </a>
 </details>
 
  
