@@ -12,6 +12,8 @@
 - 💬 Ask me about Design, Innovation and Business
 - 📫 To contact me: jorgesamper7@gmail.com
 
+  <p> <img src="https://komarev.com/ghpvc/?username=jorgesamper&label=Profile%20views&color=0e75b6&style=flat" alt="jorgesamper" /> </p>
+
 ## 🛠 Tech Stack
 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
