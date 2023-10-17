@@ -36,25 +36,26 @@
 
   ## 💬 Connect with Me
 
-  <p>
-   <a href="https://www.linkedin.com/in/jorgesamperarias/" target="_blank">
+  <a href="https://www.linkedin.com/in/jorgesamperarias/" target="_blank">
     <img src="https://icongr.am/devicon/linkedin-original.svg?size=50&color=d400ff" width="40" height="40" alt="LinkedIn" style="vertical-align: top; margin: 6px 4px;" title="LinkedIn">
   </a>
   <a href="mailto:jorgesamper7@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40" alt="Gmail" title="Gmail">
   </a>
-  </p>
+
 
   ## 📊 Estadísticas
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <a href="https://github.com/jorgesamper/github-readme-stats">
-    <img align="left" alt="jorgesamper's GitHub Stats" src="https://github-readme-stats-a9zy-jorgesamper.vercel.app/api?username=jorgesamper&show_icons=true&hide_border=true&theme=radical" />
-  </a>
+    <a href="https://github.com/jorgesamper/github-readme-stats">
+      <img align="left" alt="jorgesamper's GitHub Stats" src="https://github-readme-stats-a9zy-jorgesamper.vercel.app/api?username=jorgesamper&show_icons=true&hide_border=true&theme=radical" />
+    </a>
+  <br>
   <summary>:chart_with_upwards_trend: Top Languages</summary>
-  <a href="https://github.com/jorgesamper/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgesamper&layout=compact&theme=radical&hide_border=true" />
-  </a>
+    <a href="https://github.com/jorgesamper/github-readme-stats">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgesamper&layout=compact&theme=radical&hide_border=true" />
+    </a>
+</br>
 </details>
 
  
