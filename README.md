@@ -37,8 +37,12 @@
   ## 💬 Networks
 
   <p>
-    <a href="https://www.linkedin.com/in/jorgesamperarias/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-    badge&logo=linkedin&logoColor=white">
+    <a href="https://www.linkedin.com/in/jorgesamperarias/">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-    badge&logo=linkedin&logoColor=white">
     </a>
+    <a href="mailto:jorgesamper7@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40" alt="Gmail" title="Gmail">
+  </a>
   </p>
 
   ## 📊 Estadísticas
@@ -47,7 +51,6 @@
   <a href="https://github.com/jorgesamper/github-readme-stats">
     <img align="left" alt="jorgesamper's GitHub Stats" src="https://github-readme-stats-a9zy-jorgesamper.vercel.app/api?username=jorgesamper&show_icons=true&hide_border=true&theme=radical" />
   </a>
-
   <summary>:chart_with_upwards_trend: Top Languages</summary>
   <a href="https://github.com/jorgesamper/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgesamper&layout=compact&theme=radical&hide_border=true" />
