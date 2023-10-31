@@ -9,8 +9,7 @@
 ## 👨🏻‍💻 About Me 
 
 - 🎓 Continuous learning Full Stack Dev
-  
-- 🌱 I am working on my own projects UI/UX Design and Front-end
+- 🌱 I am working on my own projects UX/UI Design and Front-end
 - 👯 I’m looking to collaborate on innovative Web Development projets
 - ⚡ Seeking collaboration for a Web 3.0 and NFTs project
 - 💬 Ask me about Design, Innovation and Business.
